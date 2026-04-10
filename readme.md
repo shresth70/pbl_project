@@ -146,7 +146,7 @@ This project can also be hosted online (example: PythonAnywhere)
 
 ## 👨‍💻 Developed By
 
-* Your Name
+Shresth Singh
 
 ---
 
