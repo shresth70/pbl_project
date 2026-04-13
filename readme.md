@@ -143,6 +143,11 @@ run.py        → Start the project
 This project can also be hosted online (example: PythonAnywhere)
 
 ---
+## 🚀 Live Demo 
+
+https://atttendx.pythonanywhere.com/
+---
+## PPT LINK : https://1drv.ms/p/c/0d31d07eb1d1153e/IQD6K4nHvuSTRLow4LtMP9xYAUZs_K4vSGvJwks8lWFIxHw?e=iyZXYX
 
 ## 👨‍💻 Developed By
 
